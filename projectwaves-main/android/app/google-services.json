@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184391413779",
+    "project_id": "project-waves-3d038",
+    "storage_bucket": "project-waves-3d038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184391413779:android:a7d130080fd99aa29d4fe6",
+        "android_client_info": {
+          "package_name": "com.example.project_waves"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184391413779-b2i2pgme3081qubt02m1ss8vgvoi9vq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZzC7e8FPX6F65jU3K4AwDRFJAFyXD7N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184391413779-b2i2pgme3081qubt02m1ss8vgvoi9vq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
