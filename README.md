@@ -112,6 +112,22 @@ Dans le dossier "services", on regroupe les différentes classes ou fichiers qui
 - csc_picker :
 Le dossier "csc_picker" contient les fichiers spécifiques au package "csc_picker", qui permet d'ajouter facilement des lieux aux posts en utilisant une interface de sélection de pays, d'état et de ville.
 
+
+## 👨‍💻 Mes contributions
+
+- Authentification : J'ai pris en charge le développement de la partie d'authentification de l'application. Cela inclut la mise en place de l'inscription et de la connexion des utilisateurs, ainsi que la gestion des sessions utilisateur pour garder l'utilisateur connecté.
+
+- CRUD de l'utilisateur : J'ai également développé les fonctionnalités de création, lecture, mise à jour et suppression (CRUD) des informations des utilisateurs. Cela comprend la possibilité pour les utilisateurs de mettre à jour leur profil, de modifier leur nom d'utilisateur, leur bio, et bien d'autres informations.
+
+- Recherche des utilisateurs : J'ai implémenté la fonctionnalité de recherche des utilisateurs. Les utilisateurs peuvent rechercher d'autres membres du collectif d'artistes "Waves" en utilisant des mots-clés et obtenir des résultats pertinents.
+
+- Listing des posts et design : J'ai contribué au développement de la partie du projet qui gère l'affichage des posts des artistes. J'ai également travaillé sur le design et la mise en page de la liste des posts pour assurer une expérience utilisateur agréable.
+
+- Design de la modal avec le détail du post (Swipe) : J'ai été responsable du design et de la mise en place de la modal qui affiche les détails d'un post spécifique lorsque l'utilisateur effectue un swipe sur un post dans la liste.
+
+- Module événement : Formulaire : J'ai développé le module qui gère la création et l'affichage des événements. Les utilisateurs peuvent créer des événements artistiques et les afficher sur l'application.
+
+
 ## 🚀 Comment démarrer ?
 ### Prérequis :
 Assurez-vous d'avoir installé le SDK Flutter sur votre ordinateur. Vous pouvez suivre les instructions d'installation à partir du site officiel de Flutter (https://flutter.dev/docs/get-started/install).
